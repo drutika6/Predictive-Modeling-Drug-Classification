@@ -107,19 +107,19 @@ Predictive-Modeling-Drug-Classification/
 
 ## Confusion Matrix
 
-![Confusion Matrix](images/confusionmatrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 ---
 
 ## Feature Importance
 
-![Feature Importance](images/Featureimportance.png)
+![Feature Importance](images/Feature_importance.png)
 
 ---
 
 ## Model Accuracy Comparison
 
-![Model Accuracy Comparison](images/modelaccuracycomparison.png)
+![Model Accuracy Comparison](images/model_accuracy_comparison.png)
 
 ---
 
