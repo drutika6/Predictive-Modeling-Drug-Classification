@@ -97,15 +97,15 @@ Predictive-Modeling-Drug-Classification/
 
 ### Confusion Matrix
 
-(Add screenshot here)
+![Confusion Matrix](images/confusion matrix.png)
 
 ### Feature Importance
 
-(Add screenshot here)
+![Feature Importance](images/Feature importance.png)
 
 ### Model Accuracy Comparison
 
-(Add screenshot here)
+![Model Accuracy Comparison](images/model accuracy comparison.png)
 
 ---
 
@@ -125,22 +125,5 @@ Predictive-Modeling-Drug-Classification/
 
 GitHub:
 https://github.com/drutika6
-##  Project Outputs
-
-### Random Forest Accuracy
-
-![Accuracy](images/accuracy.png)
-
-### Confusion Matrix
-
-![Confusion Matrix](images/confusion_matrix.png)
-
-### Feature Importance
-
-![Feature Importance](images/feature_importance.png)
-
-### Model Comparison
-
-![Comparison](images/comparison.png)
 ---
 
